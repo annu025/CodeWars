@@ -34,7 +34,6 @@ public class VowelsTest {
     public void testCase1() {
       assertEquals("Nope!", 5, Vowels.getCount("abracadabra"));
     }
-
 }
  */
 
